@@ -25,3 +25,7 @@ I enjoy building impactful products, collaborating with cross-functional teams, 
 - Scalable frontend architecture
 - Collaboration with product, design, and engineering teams
 
+https://lemonpayapp.vercel.app/
+https://whizer-3d6a5.web.app/
+https://99cupid.com/
+
