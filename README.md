@@ -1,4 +1,4 @@
-# Hi there, I'm Sarah Oba
+﻿# Hi there, I'm Sarah Oba
 
 I’m a front-end engineer with 2+ years of experience building modern web and mobile applications.
 
@@ -24,3 +24,4 @@ I enjoy building impactful products, collaborating with cross-functional teams, 
 - Performance optimization across web and mobile
 - Scalable frontend architecture
 - Collaboration with product, design, and engineering teams
+
