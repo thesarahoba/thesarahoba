@@ -1,31 +1,59 @@
 ﻿# Hi there, I'm Sarah Oba
+Senior Full-Stack Software Engineer | Product-Driven | Systems-Focused
 
-I’m a front-end engineer with 2+ years of experience building modern web and mobile applications.
+I’m a Senior Full-Stack Engineer with strong experience building, scaling, and maintaining production web and mobile applications used by real users across multiple regions.
 
-My core stack includes **React, React Native, Next.js, TypeScript, and Python**, with occasional **Flutter** development.
+I’ve worked across frontend, backend, and system architecture, owning products end-to-end — from idea and system design to deployment, optimization, and long-term stability. My background in technical product management gives me strong product intuition and business alignment.
 
-I specialize in translating product ideas into intuitive, high-performance user experiences.
-With experience across both web and mobile ecosystems, I think beyond components, focusing on scalability, architecture, and long-term maintainability.
+🏢 Companies I’ve worked with
 
-I enjoy building impactful products, collaborating with cross-functional teams, and continuously sharpening my craft in dynamic environments.
+https://fluxx.ng/ – Financial & consumer-facing platforms
 
-## Tech Stack
+https://asmartfarm.com/ – Agri-tech & data-driven systems
 
-- React
-- React Native
-- Next.js
-- TypeScript
-- Python
-- Flutter (Occasionally)
+https://drpfl.com/ De Real People Finance (DRPF / Riverly) – Scalable fintech products serving thousands of users
+https://truthvote.io/ Truthvote- A Prediction intelligence platform
 
-## What I Focus On
+🛠 Tech Stack & Expertise
 
-- Building intuitive, accessible interfaces
-- Performance optimization across web and mobile
-- Scalable frontend architecture
-- Collaboration with product, design, and engineering teams
+Languages & Frameworks
 
-https://lemonpayapp.vercel.app/
-https://whizer-3d6a5.web.app/
-https://99cupid.com/
+-JavaScript (ES6+), TypeScript, Python, Flutter
+
+-React, Flutter, Node.js, Express, NestJS
+
+-Backend & Architecture
+
+-RESTful APIs, Microservices Architecture
+
+-Authentication & Authorization, API Security
+
+-System Design, Performance Optimization
+
+Databases
+
+-PostgreSQL, MySQL, MongoDB
+
+-Redis, Firebase
+
+DevOps & Cloud
+
+-Docker, CI/CD Pipelines
+
+-AWS, GCP, Firebase
+
+-Git, GitHub, GitLab
+
+💡 What I focus on
+
+Building scalable, maintainable systems
+
+Shipping fast without sacrificing code quality
+
+Strong ownership from architecture to production
+
+Collaborating with remote, cross-functional teams
+
+Solving complex engineering problems under pressure
+
 
