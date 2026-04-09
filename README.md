@@ -7,6 +7,8 @@ I’ve worked across frontend, backend, and system architecture, owning products
 
 🏢 Companies I’ve worked with
 
+https://liraintelligence.com/ - An AI workforce Intelligence Platform
+https://lykluk.com/ - A social media Platform
 https://fluxx.ng/ – Financial & consumer-facing platforms
 
 https://asmartfarm.com/ – Agri-tech & data-driven systems
