@@ -1,61 +1,92 @@
-﻿# Hi there, I'm Sarah Oba
-Senior Full-Stack Software Engineer | Product-Driven | Systems-Focused
+<h1 align="center">Hi, I'm Sarah Obadunni 👋</h1>
 
-I’m a Senior Full-Stack Engineer with strong experience building, scaling, and maintaining production web and mobile applications used by real users across multiple regions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;AI+%7C+Fintech+%7C+Product+Builder;TypeScript+%7C+React+%7C+Node.js;2+Years+shipping+products+that+matter" alt="Typing SVG" />
+</p>
 
-I’ve worked across frontend, backend, and system architecture, owning products end-to-end — from idea and system design to deployment, optimization, and long-term stability. My background in technical product management gives me strong product intuition and business alignment.
+---
 
-🏢 Companies I’ve worked with
+### 🧠 About Me
 
-https://liraintelligence.com/ - An AI workforce Intelligence Platform
-https://lykluk.com/ - A social media Platform
-https://fluxx.ng/ – Financial & consumer-facing platforms
+I'm a **full-stack software engineer** with **2 years** of experience building production web and mobile apps, scalable APIs, and clean, accessible interfaces — solo and inside distributed teams.
 
-https://asmartfarm.com/ – Agri-tech & data-driven systems
+I've shipped across **fintech, AI, HR-tech, social commerce, and productivity** — from payment and escrow flows to voice-AI systems built on Amazon Nova.
 
-https://drpfl.com/ De Real People Finance (DRPF / Riverly) – Scalable fintech products serving thousands of users
-https://truthvote.io/ Truthvote- A Prediction intelligence platform
+- 💡 I thrive at the intersection of **product, engineering, and hard technical problems**
+- 🚀 I build **zero-to-one** — architecture through deployment
+- 🌍 Based in Nigeria · Open to remote (US, Canada, Estonia)
+- 📫 Reach me at **sarahwithemail@gmail.com**
 
-🛠 Tech Stack & Expertise
+---
 
-Languages & Frameworks
+### 🚀 Featured Work
 
--JavaScript (ES6+), TypeScript, Python, Flutter
+Much of my work lives in private company repos — here's what I've built and where it's live:
 
--React, Flutter, Node.js, Express, NestJS
+| Product | What it is | Category | Live |
+|---------|------------|----------|------|
+| **Riverly Finance** | Modern financial products for individuals & businesses | Fintech | [riverly.ng](https://www.riverly.ng) |
+| **LIRA Intelligence** | Voice-powered AI meeting participant on Amazon Nova | AI / Voice | [liraintelligence.com](https://liraintelligence.com) |
+| **Brydg** | AI-native hiring platform — AI ATS & recruiting automation | AI / HR-tech | [brydg.app](https://brydg.app) |
 
--Backend & Architecture
+---
 
--RESTful APIs, Microservices Architecture
+### 🛠️ Tech Stack
 
--Authentication & Authorization, API Security
+**Languages & Frameworks**
 
--System Design, Performance Optimization
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-Databases
+**Cloud & Infrastructure**
 
--PostgreSQL, MySQL, MongoDB
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
--Redis, Firebase
+---
 
-DevOps & Cloud
+### 📊 GitHub Stats
 
--Docker, CI/CD Pipelines
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thesarahoba&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thesarahoba&layout=compact&theme=dracula&hide_border=true" />
+</p>
 
--AWS, GCP, Firebase
+---
 
--Git, GitHub, GitLab
+### 📈 Activity Graph
 
-💡 What I focus on
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesarahoba&theme=dracula&hide_border=true&area=true" alt="Sarah Obadunni's GitHub Activity Graph" />
+</p>
 
-Building scalable, maintainable systems
+---
 
-Shipping fast without sacrificing code quality
+### 🏆 Trophies
 
-Strong ownership from architecture to production
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thesarahoba&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Sarah Obadunni's Trophies" />
+</p>
 
-Collaborating with remote, cross-functional teams
+---
 
-Solving complex engineering problems under pressure
+### 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarahobadunni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sarahwithemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thesarahoba&label=Profile%20views&color=BD93F9&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
